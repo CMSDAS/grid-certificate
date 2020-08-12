@@ -118,6 +118,8 @@ Your proxy is valid until Wed Aug 12 22:15:57 CEST 2020
 ~~~
 {: .output}
 
+You can now delete the `myCertificate.p12` file to avoid security issues.
+
 {% include links.md %}
 
 [CA_VOMS]: https://ca.cern.ch/ca/Help/?kbid=024010
