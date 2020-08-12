@@ -9,7 +9,7 @@ objectives:
 - "Be aware of where the `pem` files need to be located."
 keypoints:
 - "From the downloaded certificate two separate files need to be extracted."
-- "The extracted user key and certificate files need to be in your `~/.globus` directory."
+- "The extracted user key and certificate files need to be in your `~/.globus` directory on the machine on which you would like to obtain a grid proxy."
 - "These files should only be readable for you."
 ---
 The grid certificate needs to be converted from the file format (`*.p12`, which mean `pkcs12` format) you downloaded from the CA website (see also
