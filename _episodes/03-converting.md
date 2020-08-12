@@ -35,9 +35,14 @@ ssh lxplus.cern.ch
 ~~~
 {: .language-bash}
 
-All following commands will be executed on LXPLUS (or the remote machine of your choice).
-However, they could also work on your local computer in case you would like to obtain a
-GRID proxy there, but this cannot be guaranteed.
+You should now see the command prompt on the LXPLUS machine.
+
+> ## Working remotely
+>
+> All following commands will be executed on LXPLUS (or the remote machine of your choice).
+> However, they could also work on your local computer in case you would like to obtain a
+> GRID proxy there, but this cannot be guaranteed.
+{: .callout}
 
 The files that we will generate from the `*.p12` file need to be put into a directory
 within your home directory to be discovered automatically. Let's create this directory
